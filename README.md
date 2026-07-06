@@ -1,4 +1,4 @@
-# Technology_Stock_ETL_Pipeline_-_Analytics_Dashboard
+# AI_Powered_Portfolio_Analysis-Dashboard
 An end-to-end ETL pipeline that extracts AAPL stock market data from the Alpha Vantage API, transforms it into analytical datasets using Python and pandas, and visualizes performance, returns, and volatility insights through a Power BI dashboard.
 
 ## 📌 Project Overview
